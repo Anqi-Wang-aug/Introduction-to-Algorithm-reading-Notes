@@ -2,4 +2,6 @@
 
 ## Sorting Problem
 Input: A sequence of n numbers
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+Output: this sequence of numbers in increasing order
+
+## structure of the data
