@@ -9,6 +9,10 @@ Index:
    * Growth_of_Functions.pdf: my printed note on "Growth of Functions"
    * Growth_of_Functions.tex: still my note on "Growth of Functions", but in latex (raw note
    * atb.png: an example of asymptotic tight bond. Used in notes. Pic from online sources
-   * d: compailed insertion_sort_d.cpp. run it by ./d with several numbers
+   * Exercise_2_1.pdf: exercise for section 2.1
+   * Exercise2.1.tex: raw code for Exercise_2_1.pdf
+   * bi_add.cpp: addition on two n-digit binary numbers. Details on exercise 4 in section 2.1
+   * d: compiled insertion_sort_d.cpp. run it by ./d with several numbers
    * main: compiled insertion_sort.cpp. run it by ./main with several numbers
+   * b: compiled bi_add.cpp 
 2. sorting and order statistics: refers to "Sorting and Order Statistic" section of the book
