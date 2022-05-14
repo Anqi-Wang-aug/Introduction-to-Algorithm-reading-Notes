@@ -1,0 +1,7 @@
+heapsort.java:25: error: <identifier> expected
+		int Left(i)
+		          ^
+heapsort.java:29: error: <identifier> expected
+		int Right(i)
+		           ^
+2 errors
