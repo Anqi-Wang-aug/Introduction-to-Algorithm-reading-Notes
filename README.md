@@ -14,8 +14,9 @@ Index:
 =======
 # Introduction-to-Algorithm-reading-Notes
 
-Notes from reading "Introduction to Algorithm" (with exercise)
+Notes and exercises from reading "Introduction to Algorithm" (with exercise)
 
+<<<<<<< HEAD
 Index:
 1. Fundation: refers to "Fundation" section of the book
    * insertion_sort.cpp: aprogram demonstrates insertion algorithm (in c++)
@@ -31,3 +32,5 @@ Index:
    * b: compiled bi_add.cpp 
 2. sorting and order statistics: refers to "Sorting and Order Statistic" section of the book
 >>>>>>> 7163972d2dc05583d3e499a4e53a97475d71e4c6
+=======
+>>>>>>> 69d6101ae716f7026638fa7ead29595349c4d4e3
